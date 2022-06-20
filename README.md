@@ -1,2 +1,2 @@
 # steam-deck-luts
-LUTSs for my Steam Deck
+LUTs for my Steam Deck
